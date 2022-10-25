@@ -1,0 +1,5 @@
+После установки запустите команду для генерации документации на Swagger.
+Удаление сделал при помощи soft delete.
+   php artisan migrate:fresh seed
+   php artisan l5-swagger:generate
+
